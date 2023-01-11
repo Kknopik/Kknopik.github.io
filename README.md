@@ -35,8 +35,10 @@ Link do gry na [Steam](https://store.steampowered.com/app/48000/LIMBO/?l=polish)
 Cuphead to wymagająca gra platformowa, w której walczysz z różnymi wrogami, aby uzyskać ich kontrakty duszy. Gra jest stylizowana, aby wyglądać i brzmieć jak stara kreskówka, co czyni ją wyjątkową. Walki z bossami trwają 2-3 minuty, jednak są one trudne i większość z nich wymaga kilku prób, aby wygrać.
 Link do gry na [Steam](https://store.steampowered.com/app/268910/Cuphead/).
 
-### 7.Seria Five night's at Freddy's
+### 7.Seria Five nights at Freddy's
 ![](images/fnaf.png)
+Five nights at Freddy’s to świetna, prosta seria gier horrorowych. Wcielamy się w rolę ochroniarza pizzerii, którego zadaniem jest obserwowanie animatroników. Gry mają prostą mechanikę oraz grafikę, ale nie wolno dać się zwieść ich prostocie. Cała seria ma bardzo skomplikowaną, mroczną historię. Seria jest idealna dla dla dociekliwych fanów grozy.
+Link do pierwszej gry z serii na [Steam](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/?l=polish).
 
 
 ### 6.Undertale
