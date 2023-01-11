@@ -1,4 +1,3 @@
-# ***10 Wspaniałych gier***
 
 Niesamowite gry, które spodobały się graczom z całego świata.  
 Od pięknych gier, których główną zaletą jest fabuła, do trudniejszych, bardziej wymagających.  
