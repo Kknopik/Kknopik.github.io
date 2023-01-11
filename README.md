@@ -60,6 +60,8 @@ Link do gry na [Steam](https://store.steampowered.com/app/1145360/Hades/).
 
 ### 3.Seria Ace Attorney
 ![](images/aceattorney.jpg)
+Seria gier Ace Attorney jest bardzo wyjątkowa. Wcielamy się w rolę prawnika, którego zadaniem jest obronienie klienta. Gry pokazują sąd w bardzo groteskowy sposób, jest to widoczne na pierwszy rzut oka nawet przy czytaniu imion postaci (głównie w trylogii, w późniejszych grach imiona pozornie wyglądają na normalne). Seria jest mniej popularna w Polsce, głównie przez to że większość gier jest dostępna na urządzeniach nintendo. Seria gier jest idealna dla osób dociekliwych, z poczuciem humoru, lubiących zagadki.  
+Link do gry na [Steam](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/).
 
 
 ### 2.Spiritfarer
