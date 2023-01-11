@@ -32,7 +32,8 @@ Link do gry na [Steam](https://store.steampowered.com/app/48000/LIMBO/?l=polish)
 
 ### 8.Cuphead
 ![](images/cuphead.jpg)
-
+Cuphead to wymagająca gra platformowa, w której walczysz z różnymi wrogami, aby uzyskać ich kontrakty duszy. Gra jest stylizowana, aby wyglądać i brzmieć jak stara kreskówka, co czyni ją wyjątkową. Walki z bossami trwają 2-3 minuty, jednak są one trudne i większość z nich wymaga kilku prób, aby wygrać.
+Link do gry na [Steam](https://store.steampowered.com/app/268910/Cuphead/).
 
 ### 7.Seria Five night's at Freddy's
 ![](images/fnaf.png)
