@@ -10,10 +10,10 @@
 ![](images/cuphead.jpg)
 
 ### 7.Seria gier Five night's at Freddy's
-![](images/fnaf.jpg)
+![](images/fnaf.png)
 
 ### 6.Undertale
-![](images/undertale.jpg)
+![](images/undertale`.JPG)
 
 ### 5.Subnautica: Below Zero
 ![](images/subnautica.jpg)
