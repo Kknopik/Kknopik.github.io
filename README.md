@@ -22,10 +22,10 @@
 ![](images/hades.jpg)
 
 ### 3.Seria gier Ace Attorney
-![](images/ace attorney.jpg)
+![](images/ace-attorney.jpg)
 
 ### 2.Spiritfarer
 ![](images/Spiritfarer.jpg)
 
 ### 1.Night in the woods
-![](images/night in the woods.jpg)
+![](images/night-in-the-woods.jpg)
