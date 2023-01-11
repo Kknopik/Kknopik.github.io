@@ -1,8 +1,8 @@
 # 10 Wspaniałych gier
 
-Niesamowite gry, które spodobały się graczom z całego świata. 
-Od pięknych gier, w których główną rolę gra fabuła, do trudniejszych, bardziej wymagających. 
-Niektóre skradają serca grafiką, a inne humorem czy rozgrywką. Każdy znajdzie coś dla siebie.
+Niesamowite gry, które spodobały się graczom z całego świata.  
+Od pięknych gier, których główną zaletą jest fabuła, do trudniejszych, bardziej wymagających.  
+Niektóre skradają serca grafiką, a inne humorem czy rozgrywką. Każdy znajdzie coś dla siebie. 
 
 ### Lista gier:
 [10.Stardew valley](https://kknopik.github.io/#10stardew-valley)  
