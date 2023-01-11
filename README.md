@@ -43,6 +43,8 @@ Link do pierwszej gry z serii na [Steam](https://store.steampowered.com/app/3195
 
 ### 6.Undertale
 ![](images/undertale`.JPG)
+Undertale to 16-bitowy RPG. Gra ma niesamowitą ścieżkę dźwiękową oraz świetną fabułę. To jak traktujesz to co stanie ci na drodze ma wpływ na fabułę oraz na to, w jaki sposób postacie będą ciebie traktować w przyszłości. Możesz zostawić wrogów przy życiu, lub ich zabić. Decyzja należy do ciebie. Są 3 różne zakończenia. W jakiej kolejności je uzyskasz również może wpłynąć na następną rozgrywkę.  
+Link do gry na [Steam](https://store.steampowered.com/app/391540/Undertale/?l=polish).
 
 
 ### 5.Subnautica: Below Zero
