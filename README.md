@@ -54,6 +54,8 @@ Link do gry na [Steam](https://store.steampowered.com/app/848450/Subnautica_Belo
 
 ### 4.Hades
 ![](images/hades.jpg)
+Hades to dungeon crawler. Wspaniała gra, stworzona na podstawie mitologii Greckiej, wymagająca troszkę większych umiejętności. Celem jest ucieczka z Hadesu. Gdy się umrze, trzeba zacząć od nowa. Na początku może to się wydawać zniechęcające, jednak mechanika gry w połączeniu z muzyką, wspaniałą grafiką, animacją oraz świetnymi dialogami zachęca do kolejnych prób ucieczki. Dostępne są różne bronie, a dodatkowe moce, które zdobywamy na próbach znikają po tym, jak przegramy. Daje nam to dużo różnych możliwości, nie ma gwarancji na to, że każda próba będzie taka sama. Gra bardzo wciągająca i przyjemna.  
+Link do gry na [Steam](https://store.steampowered.com/app/1145360/Hades/).
 
 
 ### 3.Seria Ace Attorney
