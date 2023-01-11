@@ -19,6 +19,9 @@ Niektóre skradają serca grafiką, a inne humorem czy rozgrywką. Każdy znajdz
 
 ### 10.Stardew valley
 ![](images/stardew.jpg)
+Stardew valley to symulator rolnictwa. Jest to bardzo przyjemna i relaksująca gra. Ma świetną ścieżkę dźwiękową i prostą grafikę. Zadaniem gracza jest uprawianie roślin, karmienie zwierząt, ogólnie robienie wszystkiego, co robi się na zwykłej farmie. Gra może wydawać się nudna, jednak ma wiele ciekawych wątków i fajną mechanikę gry. Jest dobrze znana z minigry wędkarskiej. Nie chcę pisać za dużo, bo to psuje przyjemność z odkrywania gry na własną rękę.  
+Gra jest dostępna na wszystkich platformach, nawet android czy IOS, jednak nie ma cross-play.  
+Link do gry na [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/)
 
 
 ### 9.Limbo
