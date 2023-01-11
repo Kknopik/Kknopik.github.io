@@ -72,7 +72,6 @@ Spiritfarer to gra typu management. Gracz wciela się w rolę przewoźniczki uma
 
 ### ***1.Night in the woods***
 ![](images/nightinthewoods.jpg)
-`Night in the woods to jedyna w swoim rodzaju gra, odzwierciedlająca realne problemy. Nie da się jej przypisać do konkretnego gatunku. Muzyka, grafika oraz mechanika gry łączą się ze sobą idealnie, nadając ciepłą, a czasem mroczną atmosferę. Główna postać dokumentuje swoje przeżycia w notatniku, co sprawia że chcemy zagrać w grę po raz kolejny żeby zobaczyć wszystkie możliwe notatki. Jest jedno główne zakończenie, jednak w jednym fragmencie ma ono 3 różne możliwości.  
-*Link do gry na [Steam](https://store.steampowered.com/app/481510/Night_in_the_Woods/).*`
+Night in the woods to jedyna w swoim rodzaju gra, odzwierciedlająca realne problemy. Nie da się jej przypisać do konkretnego gatunku. Muzyka, grafika oraz mechanika gry łączą się ze sobą idealnie, nadając ciepłą, a czasem mroczną atmosferę. Główna postać dokumentuje swoje przeżycia w notatniku, co sprawia że chcemy zagrać w grę po raz kolejny żeby zobaczyć wszystkie możliwe notatki. Jest jedno główne zakończenie, jednak w jednym fragmencie ma ono 3 różne możliwości.  
+*Link do gry na [Steam](https://store.steampowered.com/app/481510/Night_in_the_Woods/).*
 
-`#0d1117`
