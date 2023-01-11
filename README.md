@@ -66,6 +66,8 @@ Link do gry na [Steam](https://store.steampowered.com/app/787480/Phoenix_Wright_
 
 ### 2.Spiritfarer
 ![](images/Spiritfarer.jpg)
+Spiritfarer to gra typu management. Gracz wciela się w rolę przewoźniczki umarłych. Opiekuje się duchami oraz pomaga im przejść na “inny świat”. Bardzo relaksująca gra o przyjaźni, miłości i przemijaniu. Świetna grafika oraz ścieżka dźwiękowa, czasem gra się zacina, jednak nie jest to coś bardzo przeszkadzającego. Idealna dla osób ceniących sobie dobrą fabułę oraz ciekawe postacie.  
+Link do gry na [Steam](https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/?curator_clanid=32943393).
 
 
 ### 1.Night in the woods
